@@ -98,3 +98,11 @@ li strong {
     display: block;
     margin-bottom: 5px;
 }
+
+.choei {
+    margin: 0px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    scale: 0.5;
+}
